@@ -1,2 +1,8 @@
 # css-html-basic-projects
-A repo of my plain CSS and HTML webpages.
+
+A dump of my plain CSS and HTML webpages.
+Most of these are made on **codepen** below are the links ,
+
+- [Deleuze Tribute Page](https://codepen.io/sanadKadu/full/MWeNrmg) 
+- [Communist Survey](https://codepen.io/sanadKadu/full/gOwYpOQ)
+
